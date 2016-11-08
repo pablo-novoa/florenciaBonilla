@@ -1,0 +1,11 @@
+<wpml-config> 
+	<admin-texts>
+		<key name="singlestroke_primrose_customizer">
+			<key name="footer_instagram_link_text" />
+			<key name="footer_copyright_text" />
+			<key name="blog_index_read_more_text" />
+		</key>
+	</admin-texts>   
+</wpml-config>
+
+

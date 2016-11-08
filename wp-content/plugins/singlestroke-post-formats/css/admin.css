@@ -1,0 +1,227 @@
+#formatdiv, /* hide default radio button UI */
+#titlewrap {
+	display: none;
+}
+#post-body-content #postimagediv .inside p {
+	text-align: center;
+}
+
+.clearfix:before, .clearfix:after { content: "\0020"; display: block; height: 0; overflow: hidden; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+
+.sspf-elm-block {
+	margin-bottom: 18px;
+}
+.sspf-elm-block label {
+	color: #666;
+	display: block;
+	margin-bottom: 2px;
+	padding-left: 10px;
+	text-transform: uppercase;
+}
+.sspf-elm-block input[type="text"],
+.sspf-elm-block textarea,
+.sspf-elm-block select,
+.sspf-elm-block .sspf-elm-container {
+	border: 1px #dfdfdf solid;
+}
+.sspf-elm-block input[type="text"],
+.sspf-elm-block textarea {
+	font-size: 18px;
+	width: 100%;
+}
+.sspf-elm-block textarea {
+	height: 161px;
+	padding-left: 8px;
+}
+.sspf-elm-block input[type="text"] {
+	padding-left: 8px;
+}
+.sspf-elm-block .description {
+	color: #999;
+	display: block;
+	font-size: 11px;
+	line-height: 1.6;
+	padding-left: 10px;
+}
+.sspf-elm-block .sspf-elm-source {
+	height: 96px;
+}
+.sspf-elm-block .sspf-elm-container {
+	background: #f0f0f0;
+	padding: 10px;
+}
+.sspf-elm-block .sspf-elm-container p.none {
+	text-align: center;
+}
+.sspf-elm-block .sspf-elm-image-gallery {
+	margin: 0 0 -5px 0;
+	padding: 0;
+}
+.sspf-elm-block .sspf-elm-container .gallery {
+	margin: 0;
+	padding-bottom: 8px;
+}
+.sspf-elm-block .sspf-elm-container .gallery li {
+	display: inline-block;
+	margin: 0 8px 8px 0;
+	padding: 0;
+}
+.sspf-elm-block .sspf-elm-container .gallery li img {
+	vertical-align: middle;
+}
+
+#sspf-format-gallery-preview .sspf-elm-container {
+	background: #fff;
+}
+
+/* Video Field */
+#sspf-format-video-embed, #sspf-format-audio-embed {
+	height: 65px;
+}
+
+/* Featured Image */
+#post-body-content #select-featured-image {
+	text-align: center;
+}
+#post-body-content #select-featured-image img {
+	display: block;
+	margin: 0 auto 4px;
+}
+#post-body-content #select-featured-image a {
+	float: none;
+}
+#post-body-content #select-featured-image a.button-secondary {
+	margin-right: 10px;
+}
+
+/** tab navigation
+ -------------------------------------------------- */
+.sspf-nav {
+	border-bottom: 1px solid #ccc;
+	margin: 12px 0 11px 0;
+	width: 100%;
+}
+.sspf-nav ul {
+	list-style-type: none;
+	margin: 0 8px;
+	padding: 0;
+}
+.sspf-nav ul li,
+.sspf-nav ul li a {
+	float: left;
+	margin: 0;
+}
+.sspf-nav ul li a {
+	display: block;
+	color: #555;
+	background-color: #e4e4e4;
+	border: 1px solid #ccc;
+	border-bottom: 0;
+	font-size: 14px;
+	font-weight: 700;
+	line-height: 1.4;
+	margin-right: 8px;
+	padding: 8px 10px;
+	text-decoration: none;
+}
+.sspf-nav ul li a:hover {
+	background-color: #fff;
+	color: #464646;
+}
+.sspf-nav ul li a.current {
+	background: none;
+	border-bottom: 1px solid #f1f1f1;
+	color: #000;
+	margin-bottom: -1px;
+}
+.sspf-nav ul li a:focus {
+	outline: none;
+}
+.sspf-nav ul li a:before {
+	color: #888;
+	vertical-align: top;
+}
+.sspf-nav ul li a:hover:before,
+.sspf-nav ul li a.current:before {
+	color: #666;
+}
+
+@media (max-width: 1020px) {
+	.sspf-nav ul li a span {
+		display: none;
+		/*color: red;*/
+	}
+	.sspf-nav ul li a:before {
+		margin-right: 0;
+	}
+	.sspf-nav ul li a.current:before {
+		margin-right: 7px;
+	}
+	.sspf-nav ul li a.current span {
+		display: inline;
+	}
+}
+
+@media (max-width: 850px) {
+	.sspf-nav ul li a,
+	.sspf-nav ul li a.current {
+		border-bottom: 1px solid #ccc;
+		margin-bottom: 7px;
+	}
+}
+
+/* Gallery */
+.sspf-gallery-picker .gallery {
+	overflow: auto;
+}
+.sspf-gallery-picker .gallery span {
+	width: 120px;
+	height: 120px;
+	display: block;
+	float: left;
+	position: relative;
+	margin: 4px;
+	border: solid 1px #eeeeee;
+}
+.sspf-gallery-picker .gallery span.close {
+	width: 8px;
+	height: 8px;
+	line-height: 8px;
+	position: absolute;
+	top: 0px;
+	right: 0px;
+	background: #fff;
+	color: #000;
+	text-align: center;
+	display: none;
+	border: none;
+	cursor: pointer;
+}
+.sspf-gallery-picker .gallery span:hover span.close {
+	display: block;
+}
+.sspf-gallery-picker .gallery img {
+	width: 100%;
+	height: 100%;
+	display: block;
+}
+.sspf-gallery-picker .gallery span.sspf-ui-state-highlight {
+	width: 120px;
+	height: 120px;
+	display: inline-block;
+	border: 1px dotted #bbbbbb;
+	background: #eeeeee;
+}
+.sspf-gallery-picker .gallery span {
+	padding: 5px;
+	border: solid 1px #efefef;
+}
+.sspf-gallery-picker .gallery > span:hover {
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+	box-shadow: 1px 1px 5px #999;
+}

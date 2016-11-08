@@ -1,0 +1,49 @@
+@ids: ;
+@button_bg_colors: ;
+@button_border_colors: ;
+@button_text_colors: ;
+@button_hover_bg_colors: ;
+@button_hover_border_colors: ;
+@button_hover_text_colors: ;
+
+.primrose-sow-buttons {
+	.loop() when ( length( @ids ) = 1 ) {
+		.primrose-sow-button-@{ids} {
+			background-color: @button_bg_colors;
+			border-color: @button_border_colors;
+			color: @button_text_colors;
+
+			&:hover, &:focus {
+				background-color: @button_hover_bg_colors;
+				border-color: @button_hover_border_colors;
+				color: @button_hover_text_colors;
+			}
+		}
+	}
+
+	.loop( @i: length( @ids ) ) when ( @i > 0 ) and ( length( @ids ) > 1 ) {
+		.loop( ( @i - 1 ) );
+
+		@id: extract( @ids, @i );
+		@button_bg_color: extract( @button_bg_colors, @i );
+		@button_border_color: extract( @button_border_colors, @i );
+		@button_text_color: extract( @button_text_colors, @i );
+		@button_hover_bg_color: extract( @button_hover_bg_colors, @i );
+		@button_hover_border_color: extract( @button_hover_border_colors, @i );
+		@button_hover_text_color: extract( @button_hover_text_colors, @i );
+		
+		.primrose-sow-button-@{id} {
+			background-color: @button_bg_color;
+			border-color: @button_border_color;
+			color: @button_text_color;
+
+			&:hover, &:focus {
+				background-color: @button_hover_bg_color;
+				border-color: @button_hover_border_color;
+				color: @button_hover_text_color;
+			}
+		}
+	}
+
+	.loop();
+}

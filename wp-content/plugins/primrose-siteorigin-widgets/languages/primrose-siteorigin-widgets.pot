@@ -1,0 +1,907 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Primrose\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-06-23 21:27+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SingleStroke\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: prebuilts/about-us.php:3
+msgid "About Us"
+msgstr ""
+
+#: prebuilts/about-us.php:4
+msgid "About us page with nice 3 columns description and numbers."
+msgstr ""
+
+#: prebuilts/contact-us.php:3
+msgid "Contact Us"
+msgstr ""
+
+#: prebuilts/contact-us.php:4
+msgid "Contact us page with addresses and contact form."
+msgstr ""
+
+#: prebuilts/custom-product-page.php:3
+msgid "Product - Custom Page"
+msgstr ""
+
+#: prebuilts/custom-product-page.php:4
+msgid "Custom single product page with more sections and elements."
+msgstr ""
+
+#: prebuilts/faq.php:3
+msgid "F.A.Q."
+msgstr ""
+
+#: prebuilts/faq.php:4
+msgid "Frequently Asked Questions page with accordion."
+msgstr ""
+
+#: prebuilts/home-background-video.php:3
+msgid "Home - Background Video"
+msgstr ""
+
+#: prebuilts/home-background-video.php:4
+msgid "Homepage layout with Hero background video."
+msgstr ""
+
+#: prebuilts/home-classic.php:3
+msgid "Home - Classic"
+msgstr ""
+
+#: prebuilts/home-classic.php:4
+msgid "Homepage layout with classic banners and products grid."
+msgstr ""
+
+#: prebuilts/home-grid.php:3
+msgid "Home - Grid"
+msgstr ""
+
+#: prebuilts/home-grid.php:4
+msgid "Homepage with grid layout."
+msgstr ""
+
+#: prebuilts/home-image-slider.php:3
+msgid "Home - Image Slider"
+msgstr ""
+
+#: prebuilts/home-image-slider.php:4
+msgid "Homepage layout with Hero image slider."
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:78
+msgid "Primrose Widgets"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:94 primrose-siteorigin-widgets.php:124
+msgid "Anchor ID"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:97 primrose-siteorigin-widgets.php:127
+msgid "Used in Smooth Scrolling navigation. Please enter alphanumeric, dash ( _ ), and hyphen ( - ) only."
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:103
+msgid "Animation"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:106
+msgid "Widget's enter (inview) animation."
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:108
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:49
+msgid "Disabled"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:109
+msgid "Fade In"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:132
+msgid "Primrose Parallax"
+msgstr ""
+
+#: primrose-siteorigin-widgets.php:175
+msgid "Simple Line Icons"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:13
+msgid "Primrose: Accordion"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:15
+msgid "Accordion block."
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:24
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:24
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:24
+msgid "Items"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:25
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:25
+msgid "Item"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:34
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:34
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:62
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:34
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:111
+msgid "Title"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:35
+msgid "Accordion Item Title"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:39
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:98
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:71
+msgid "Description"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:44
+msgid "Active by default"
+msgstr ""
+
+#: widgets/primrose-sow-accordion/primrose-sow-accordion.php:51
+msgid "Allow multiple active items"
+msgstr ""
+
+#: widgets/primrose-sow-banner/primrose-sow-banner.php:13
+msgid "Primrose: Banner"
+msgstr ""
+
+#: widgets/primrose-sow-banner/primrose-sow-banner.php:15
+msgid "Banner image with link."
+msgstr ""
+
+#: widgets/primrose-sow-banner/primrose-sow-banner.php:24
+msgid "Banner image"
+msgstr ""
+
+#: widgets/primrose-sow-banner/primrose-sow-banner.php:29
+msgid "Link URL"
+msgstr ""
+
+#: widgets/primrose-sow-banner/primrose-sow-banner.php:30
+msgid "Leave if blank to disable banner link."
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:13
+msgid "Primrose: Buttons"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:15
+msgid "Pre-styled buttons."
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:24
+msgid "Buttons"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:25
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:29
+msgid "Button"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:34
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:33
+msgid "Button text"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:38
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:80
+msgid "Destination URL"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:42
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:86
+msgid "Open in a new window"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:46
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:38
+msgid "Button BG color"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:51
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:43
+msgid "Button border color"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:56
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:48
+msgid "Button text color"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:61
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:53
+msgid "Button BG color (hover)"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:66
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:58
+msgid "Button border color (hover)"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:71
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:63
+msgid "Button text color (hover)"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:78
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:54
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:42
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:44
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:70
+msgid "Alignment"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:80
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:46
+msgid "Left"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:81
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:47
+msgid "Center"
+msgstr ""
+
+#: widgets/primrose-sow-buttons/primrose-sow-buttons.php:82
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:48
+msgid "Right"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:13
+msgid "Primrose: Counter"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:15
+msgid "Counting number."
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:24
+msgid "Number"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:25
+msgid "The target number with optional decimal or thousands separator, etc. e.g. \"1,024\" or \"12.75\"."
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:30
+msgid "Prefix (string before the number)"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:34
+msgid "Suffix (string after the number)"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:38
+msgid "Number color"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:43
+msgid "Counter duration (miliseconds)"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:44
+msgid "0 means no animation."
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:49
+msgid "Caption"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:50
+msgid "Caption text"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:56
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:44
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:72
+msgid "left"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:57
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:45
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:73
+msgid "center"
+msgstr ""
+
+#: widgets/primrose-sow-counter/primrose-sow-counter.php:58
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:46
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:74
+msgid "right"
+msgstr ""
+
+#: widgets/primrose-sow-cta/primrose-sow-cta.php:13
+msgid "Primrose: CTA"
+msgstr ""
+
+#: widgets/primrose-sow-cta/primrose-sow-cta.php:15
+msgid "Call to Action text with buttons."
+msgstr ""
+
+#: widgets/primrose-sow-cta/primrose-sow-cta.php:24
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:34
+msgid "Quote text"
+msgstr ""
+
+#: widgets/primrose-sow-cta/primrose-sow-cta.php:25
+msgid "This is call to action line, ready to take action?"
+msgstr ""
+
+#: widgets/primrose-sow-cta/primrose-sow-cta.php:29
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:109
+msgid "Action Buttons"
+msgstr ""
+
+#: widgets/primrose-sow-divider/primrose-sow-divider.php:13
+msgid "Primrose: Divider"
+msgstr ""
+
+#: widgets/primrose-sow-divider/primrose-sow-divider.php:15
+msgid "Section divider, using &lt;hr&gt;."
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:13
+msgid "Primrose: Feature"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:15
+msgid "Block containing feature description and icon."
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:24
+msgid "Heading"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:25
+msgid "Feature heading"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:29
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:29
+msgid "Heading level"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:31
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:31
+msgid "h2"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:32
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:32
+msgid "h3"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:33
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:33
+msgid "h4"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:34
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:34
+msgid "h5"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:35
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:35
+msgid "h6"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:36
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:36
+msgid "normal text"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:42
+msgid "Heading color"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:47
+msgid "Icon mode"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:50
+msgid "Icon font"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:51
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:42
+msgid "Image"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:61
+msgid "Icon font character"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:69
+msgid "Icon font size"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:70
+msgid "in em / rem / px / %."
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:79
+msgid "Icon color"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:88
+msgid "Icon (image)"
+msgstr ""
+
+#: widgets/primrose-sow-feature/primrose-sow-feature.php:89
+msgid "Set this options will override the selected icon font."
+msgstr ""
+
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:13
+msgid "Primrose: Heading"
+msgstr ""
+
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:15
+msgid "Section heading."
+msgstr ""
+
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:24
+msgid "Heading text"
+msgstr ""
+
+#: widgets/primrose-sow-heading/primrose-sow-heading.php:25
+msgid "This is Heading"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:13
+msgid "Primrose: Hero Slider"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:15
+msgid "Hero image slider."
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:24
+msgid "Slides"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:25
+msgid "Slide"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:35
+msgid "Leave if blank to hide title."
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:36
+msgid "Slide Title"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:40
+msgid "Background media"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:43
+msgid "Video"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:53
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:33
+msgid "Background color"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:57
+msgid "Background video"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:58
+msgid "Please upload 3 formats: \"mp4\", \"ogv\", and \"webm\" with the same filename. BUT choose only one of them in this option (e.g. mp4), the theme will automatically call the other formats when it's displayed on the page."
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:67
+msgid "Video poster image"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:68
+msgid "Fallback image used on devices which doesn't support background video OR will be displayed when video is still being loaded by the browser."
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:77
+msgid "Video pattern overlay"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:79
+msgid "disabled"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:80
+msgid "dot 1 / 3px"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:90
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:37
+msgid "Background image"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:99
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:41
+msgid "Background overlay (rgba colors)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:104
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:66
+msgid "Title color"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:116
+msgid "Enable Primrose Parallax Scrolling effect"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:121
+msgid "Autoslide (miliseconds)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:122
+msgid "0 means no autoslide."
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:127
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:97
+msgid "Wide screen layout (min width 1200px, wrapper 1080px)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:131
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:142
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:153
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:164
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:175
+msgid "Height ( px / em / rem / % / vw / vh )"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:138
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:121
+msgid "Normal layout (wrapper 940px)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:149
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:145
+msgid "Tablet layout (max-width: 1023px, wrapper 730px)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:160
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:169
+msgid "Mobile layout (max-width: 767px, wrapper 480px)"
+msgstr ""
+
+#: widgets/primrose-sow-hero-slider/primrose-sow-hero-slider.php:171
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:193
+msgid "Mobile Small layout (max-width: 519px, wrapper 300px)"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:13
+msgid "Primrose: Masonry Grid"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:15
+msgid "Masonry grid layout."
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:46
+msgid "Column span"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:47
+msgid "Number of columns this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:54
+msgid "Row span"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:55
+msgid "Number of rows this item should span. (Limited to number of columns selected in Layout section below.)"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:75
+msgid "Description color"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:81
+msgid "Leave blank to disable link."
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:91
+msgid "Image zoom effect on hover"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:101
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:125
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:149
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:173
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:197
+msgid "Number of columns"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:108
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:132
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:156
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:180
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:204
+msgid "Row height (px or %)"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:109
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:133
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:157
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:181
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:205
+msgid "Leave blank to match calculated column width."
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:113
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:137
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:161
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:185
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:209
+msgid "Gutter (px or %)"
+msgstr ""
+
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:114
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:138
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:162
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:186
+#: widgets/primrose-sow-masonry-grid/primrose-sow-masonry-grid.php:210
+msgid "Space between masonry items."
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:13
+msgid "Primrose: Progress Bars"
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:15
+msgid "Set of animating progress bars."
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:38
+msgid "Progress percentage (%)"
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:45
+msgid "Track color"
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:50
+msgid "Bars color"
+msgstr ""
+
+#: widgets/primrose-sow-progress-bars/primrose-sow-progress-bars.php:57
+msgid "Display percentage"
+msgstr ""
+
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:13
+msgid "Primrose: Quotes"
+msgstr ""
+
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:15
+msgid "Blockquote with citation."
+msgstr ""
+
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:24
+msgid "Quotes"
+msgstr ""
+
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:25
+msgid "Quote"
+msgstr ""
+
+#: widgets/primrose-sow-quotes/primrose-sow-quotes.php:38
+msgid "Name"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:13
+msgid "Primrose: WooCommerce Add to Cart Button"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:15
+msgid "WooCommerce add to cart button."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:24
+msgid "Product ID / Variation ID"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:25
+msgid "If your product has variations, please fill this option with the variation ID, instead of the product ID. Variation ID can be found on the product info tabs > Variations."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-add-to-cart-button/primrose-sow-woocommerce-add-to-cart-button.php:34
+msgid "Purchase Now"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:13
+msgid "Primrose: WooCommerce Posts Grid"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:15
+msgid "WooCommerce posts grid."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:24
+msgid "Query type"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:26
+msgid "Recent products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:27
+msgid "Featured products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:28
+msgid "On sale products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:29
+msgid "Best selling products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:30
+msgid "Top rated products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:31
+msgid "Products in a category"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:32
+msgid "Selected products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:33
+msgid "Products with a specific attribute value"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:34
+msgid "Related products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:35
+msgid "Top level categories / subcategories"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:36
+msgid "Selected categories"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:48
+msgid "Category"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:58
+msgid "Select products"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:59
+msgid "Show only the selected products."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:70
+msgid "Attribute name (slug)"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:78
+msgid "Attribute value (slug)"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:88
+msgid "Show (sub)categories under ..."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:98
+msgid "Display only these selected categories"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:108
+msgid "Order by type"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:110
+msgid "Menu order"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:112
+msgid "Date"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:113
+msgid "ID"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:114
+msgid "Random"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:124
+msgid "Order"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:126
+msgid "Ascending"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:127
+msgid "Descending"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:137
+msgid "Posts per page"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:142
+msgid "Grid columns"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:171
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:174
+msgid "--- None selected ---"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-posts-grid/primrose-sow-woocommerce-posts-grid.php:177
+msgid "--- Show all top level categories"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:13
+msgid "Primrose: WooCommerce Price Box"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:15
+msgid "Price box with action button."
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:24
+msgid "Package name"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:25
+msgid "Package"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:29
+msgid "Price"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:34
+msgid "Price period (e.g. \"monthly\", or \"/year\")"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:38
+msgid "Features list"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:39
+msgid "Feature"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:53
+msgid "Features item border color"
+msgstr ""
+
+#: widgets/primrose-sow-woocommerce-price-box/primrose-sow-woocommerce-price-box.php:58
+msgid "Add to Cart Button"
+msgstr ""

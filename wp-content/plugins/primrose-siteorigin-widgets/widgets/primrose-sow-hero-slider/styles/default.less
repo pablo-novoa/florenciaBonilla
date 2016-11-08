@@ -1,0 +1,44 @@
+@ids: ;
+@title_colors: ;
+
+@desktop_layout_height: 640px;
+@normal_layout_height: 560px;
+@tablet_layout_height: 420px;
+@mobile_layout_height: 300px;
+@mobile_small_layout_height: 180px;
+
+.primrose-sow-hero-slider {
+	height: @normal_layout_height;
+
+	@media screen and ( min-width: 1200px ) {
+		height: @desktop_layout_height;
+	}
+	@media screen and ( max-width: 1023px ) {
+		height: @tablet_layout_height;
+	}
+	@media screen and ( max-width: 767px ) {
+		height: @mobile_layout_height;
+	}
+	@media screen and ( max-width: 519px ) {
+		height: @mobile_small_layout_height;
+	}
+
+	.loop() when ( length( @ids ) = 1 ) {
+		.primrose-sow-hero-slide-@{ids} {
+			color: @title_colors;
+		}
+	}
+
+	.loop( @i: length( @ids ) ) when ( @i > 0 ) and ( length( @ids ) > 1 ) {
+		.loop( ( @i - 1 ) );
+
+		@id: extract( @ids, @i );
+		@title_color: extract( @title_colors, @i );
+		
+		.primrose-sow-hero-slide-@{id} {
+			color: @title_color;
+		}
+	}
+
+	.loop();
+}

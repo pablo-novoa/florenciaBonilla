@@ -1,0 +1,1393 @@
+# Copyright (C) 2015 Automattic
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Primrose\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2016-08-04 22:04+0700\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2015-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: SingleStroke\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;_ex;_nx;esc_attr__;esc_attr_e;esc_attr_x;esc_html__;esc_html_e;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:21
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr ""
+
+#: comments.php:31 inc/template-tags.php:287
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:40 comments.php:62
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:65
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:66
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: functions.php:46 functions.php:72 widgets/singlestroke-widget-social.php:24
+msgid "Behance"
+msgstr ""
+
+#: functions.php:47 functions.php:73 widgets/singlestroke-widget-social.php:25
+msgid "Bloglovin&#39;"
+msgstr ""
+
+#: functions.php:48 functions.php:74 widgets/singlestroke-widget-social.php:26
+msgid "Dribbble"
+msgstr ""
+
+#: functions.php:49 functions.php:75 widgets/singlestroke-widget-social.php:27
+msgid "Facebook"
+msgstr ""
+
+#: functions.php:50 functions.php:76 widgets/singlestroke-widget-social.php:28
+msgid "Google Plus"
+msgstr ""
+
+#: functions.php:51 functions.php:77 widgets/singlestroke-widget-social.php:29
+msgid "Instagram"
+msgstr ""
+
+#: functions.php:52 functions.php:78 widgets/singlestroke-widget-social.php:30
+msgid "LinkedIn"
+msgstr ""
+
+#: functions.php:53 functions.php:79 widgets/singlestroke-widget-social.php:31
+msgid "Pinterest"
+msgstr ""
+
+#: functions.php:54 functions.php:80 widgets/singlestroke-widget-social.php:32
+msgid "RSS"
+msgstr ""
+
+#: functions.php:55 functions.php:81 widgets/singlestroke-widget-social.php:33
+msgid "Snapchat"
+msgstr ""
+
+#: functions.php:56 functions.php:82 widgets/singlestroke-widget-social.php:34
+msgid "Tumblr"
+msgstr ""
+
+#: functions.php:57 functions.php:83 widgets/singlestroke-widget-social.php:35
+msgid "Twitter"
+msgstr ""
+
+#: functions.php:58 functions.php:84 widgets/singlestroke-widget-social.php:36
+msgid "Vimeo"
+msgstr ""
+
+#: functions.php:59 functions.php:85 widgets/singlestroke-widget-social.php:37
+msgid "Youtube"
+msgstr ""
+
+#: functions.php:64
+msgid "Body"
+msgstr ""
+
+#: functions.php:65
+msgid "Title"
+msgstr ""
+
+#: functions.php:66
+msgid "Content Headings (h1 - h6)"
+msgstr ""
+
+#: functions.php:67 inc/template-tags.php:75
+msgid "Menu"
+msgstr ""
+
+#: functions.php:132
+msgid "Kirki"
+msgstr ""
+
+#: functions.php:135
+msgid "Mandatory plugin used to configure the Customizer (Theme Options) settings."
+msgstr ""
+
+#: functions.php:138
+msgid "Page Builder by SiteOrigin"
+msgstr ""
+
+#: functions.php:141 functions.php:147 functions.php:155
+msgid "Mandatory plugin used for page builder features."
+msgstr ""
+
+#: functions.php:144
+msgid "SiteOrigin Widgets Bundle"
+msgstr ""
+
+#: functions.php:150
+msgid "Primrose SiteOrigin Widgets"
+msgstr ""
+
+#: functions.php:158
+msgid "SingleStroke: Post Formats"
+msgstr ""
+
+#: functions.php:163
+msgid "Allow you to create audio, video, gallery post formats on your blog."
+msgstr ""
+
+#: functions.php:166
+msgid "WooCommerce"
+msgstr ""
+
+#: functions.php:169
+msgid "ECommerce module to sell your products / services."
+msgstr ""
+
+#: functions.php:172
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:175
+msgid "Help you to create an easy and simple contact form."
+msgstr ""
+
+#: functions.php:178
+msgid "Mailchimp for WordPress"
+msgstr ""
+
+#: functions.php:181
+msgid "Used to put a Mailchimp subscribe form in your page."
+msgstr ""
+
+#: functions.php:184
+msgid "WP Instagram Widget"
+msgstr ""
+
+#: functions.php:187
+msgid "Used to generate the footer Instagram feed in this theme."
+msgstr ""
+
+#: functions.php:190
+msgid "One Click Demo Import"
+msgstr ""
+
+#: functions.php:193
+msgid "Allow you to import all data from demo site just in ONE CLICK."
+msgstr ""
+
+#: functions.php:196
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:201
+msgid "Enable notifications and automatic theme update for this theme."
+msgstr ""
+
+#: functions.php:215
+msgid "Required Plugins"
+msgstr ""
+
+#: functions.php:250
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:251
+msgid "Topbar Menu"
+msgstr ""
+
+#: functions.php:296
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:306
+msgid "Sidebar Shop"
+msgstr ""
+
+#: functions.php:317
+#, php-format
+msgid "Footer Widgets %s"
+msgstr ""
+
+#: functions.php:400
+msgid " URL"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:393
+#: inc/class-tgm-plugin-activation.php:920
+#: inc/class-tgm-plugin-activation.php:2626
+#: inc/class-tgm-plugin-activation.php:3673
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:394
+#: inc/class-tgm-plugin-activation.php:3252
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:395
+#: inc/class-tgm-plugin-activation.php:3045
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#, php-format
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1027
+#: inc/class-tgm-plugin-activation.php:1030
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1030
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1214
+#: inc/class-tgm-plugin-activation.php:3041
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2075
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2366
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2369
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2385
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2388
+msgid "External Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2391
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2408
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2412
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2414
+msgid "Active"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2420
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2423
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2426
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2435
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2489
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2493
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2575
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2583
+msgid "Installed version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2591
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2603
+msgid "Available version:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2626
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2640
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2641
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2642 inc/customizer.php:1006
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2646
+msgid "Version"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2647
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2696
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2701
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2707
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2777
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2810
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2816
+msgid "Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2819
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2850
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2893
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3001
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3027
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3251
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3591
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3600
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#: inc/class-tgm-plugin-activation.php:3610
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+#: inc/class-tgm-plugin-activation.php:3610
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3603
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3608
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3611
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/customizer.php:23
+msgid "Styles"
+msgstr ""
+
+#: inc/customizer.php:27 inc/customizer.php:252
+msgid "Topbar"
+msgstr ""
+
+#: inc/customizer.php:31
+msgid "Header"
+msgstr ""
+
+#: inc/customizer.php:35
+msgid "Footer"
+msgstr ""
+
+#: inc/customizer.php:39
+msgid "Blog"
+msgstr ""
+
+#: inc/customizer.php:43
+msgid "Shop (WooCommerce)"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Social media settings"
+msgstr ""
+
+#: inc/customizer.php:51 inc/customizer.php:1054
+msgid "Custom CSS"
+msgstr ""
+
+#: inc/customizer.php:66
+msgid "Color accent"
+msgstr ""
+
+#: inc/customizer.php:94
+msgid "Button BG color"
+msgstr ""
+
+#: inc/customizer.php:110
+msgid "Button border color"
+msgstr ""
+
+#: inc/customizer.php:126
+msgid "Button text color"
+msgstr ""
+
+#: inc/customizer.php:142
+msgid "Button hover BG color"
+msgstr ""
+
+#: inc/customizer.php:158
+msgid "Button hover border color"
+msgstr ""
+
+#: inc/customizer.php:174
+msgid "Button hover text color"
+msgstr ""
+
+#: inc/customizer.php:196
+msgid "Font subsets"
+msgstr ""
+
+#: inc/customizer.php:204
+msgid "Body font family"
+msgstr ""
+
+#: inc/customizer.php:205
+msgid "Used in normal paragraphs."
+msgstr ""
+
+#: inc/customizer.php:213
+msgid "Title font family"
+msgstr ""
+
+#: inc/customizer.php:214
+msgid "Used in post / page title."
+msgstr ""
+
+#: inc/customizer.php:222
+msgid "Content headings font family"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Used in content headings (h1 - h6)."
+msgstr ""
+
+#: inc/customizer.php:231
+msgid "Menu and button font family"
+msgstr ""
+
+#: inc/customizer.php:232
+msgid "Used in header navigation and button."
+msgstr ""
+
+#: inc/customizer.php:240
+msgid "Changing font sizes etc."
+msgstr ""
+
+#: inc/customizer.php:242
+msgid "To customize font size, line height, etc, please use Custom CSS. We also recommend <a href=\"https://siteorigin.com/css/\">SiteOrigin CSS Editor</a> plugin for customizing CSS with a nice visual preview."
+msgstr ""
+
+#: inc/customizer.php:259
+msgid "Topbar layout"
+msgstr ""
+
+#: inc/customizer.php:261 inc/customizer.php:459 inc/customizer.php:478
+#: inc/customizer.php:601 inc/customizer.php:635
+msgid "Centered (wrapped)"
+msgstr ""
+
+#: inc/customizer.php:262 inc/customizer.php:460 inc/customizer.php:479
+#: inc/customizer.php:602 inc/customizer.php:634 inc/customizer.php:808
+#: inc/customizer.php:880 inc/customizer.php:949
+msgid "Full width"
+msgstr ""
+
+#: inc/customizer.php:277
+msgid "Topbar text"
+msgstr ""
+
+#: inc/customizer.php:292
+msgid "Topbar navigation"
+msgstr ""
+
+#: inc/customizer.php:293
+msgid "To activate topbar navigation, please go to Appearance > Menus, and assign your created menu to \"Topbar Menu\" location."
+msgstr ""
+
+#: inc/customizer.php:299
+msgid "Topbar BG color"
+msgstr ""
+
+#: inc/customizer.php:313
+msgid "Topbar border color"
+msgstr ""
+
+#: inc/customizer.php:327
+msgid "Topbar text color"
+msgstr ""
+
+#: inc/customizer.php:341
+msgid "Topbar link color"
+msgstr ""
+
+#: inc/customizer.php:355
+msgid "Topbar link hover color"
+msgstr ""
+
+#: inc/customizer.php:371
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:372
+msgid "Please upload the actual size."
+msgstr ""
+
+#: inc/customizer.php:386
+msgid "Logo margin top"
+msgstr ""
+
+#: inc/customizer.php:401
+msgid "Logo margin bottom"
+msgstr ""
+
+#: inc/customizer.php:416
+msgid "Logo URL"
+msgstr ""
+
+#: inc/customizer.php:417
+msgid "Default (blank) is the front page URL."
+msgstr ""
+
+#: inc/customizer.php:436
+msgid "Floating logo"
+msgstr ""
+
+#: inc/customizer.php:437
+msgid "Displayed when navigation bar is floating. Please upload the actual size. Maximum size is 50x50px."
+msgstr ""
+
+#: inc/customizer.php:457
+msgid "Header navigation layout"
+msgstr ""
+
+#: inc/customizer.php:475
+msgid "Thin bottom border"
+msgstr ""
+
+#: inc/customizer.php:477 inc/customizer.php:600
+msgid "Disabled"
+msgstr ""
+
+#: inc/customizer.php:494 inc/template-tags.php:100
+msgid "Search"
+msgstr ""
+
+#: inc/customizer.php:508
+msgid "Search mode"
+msgstr ""
+
+#: inc/customizer.php:510
+msgid "All post types"
+msgstr ""
+
+#: inc/customizer.php:511
+msgid "Products only"
+msgstr ""
+
+#: inc/customizer.php:512
+msgid "Posts and Pages only"
+msgstr ""
+
+#: inc/customizer.php:535
+msgid "Shopping cart"
+msgstr ""
+
+#: inc/customizer.php:549
+msgid "Cart icon"
+msgstr ""
+
+#: inc/customizer.php:551
+msgid "handbag"
+msgstr ""
+
+#: inc/customizer.php:552
+msgid "basket"
+msgstr ""
+
+#: inc/customizer.php:574
+msgid "Show cart dropdown list (widget)"
+msgstr ""
+
+#: inc/customizer.php:598
+msgid "Thin top border"
+msgstr ""
+
+#: inc/customizer.php:617
+msgid "Instagram feed"
+msgstr ""
+
+#: inc/customizer.php:618
+msgid "Please make sure you have \"WP Instagram Widget\" plugin installed."
+msgstr ""
+
+#: inc/customizer.php:632
+msgid "Instagram feed layout"
+msgstr ""
+
+#: inc/customizer.php:650
+msgid "Instagram username"
+msgstr ""
+
+#: inc/customizer.php:671
+msgid "Link text"
+msgstr ""
+
+#: inc/customizer.php:693
+msgid "Link target"
+msgstr ""
+
+#: inc/customizer.php:718
+msgid "Footer Widgets Area Columns"
+msgstr ""
+
+#: inc/customizer.php:719
+msgid "Leave this blank means disable footer widgets area. If set, all columns width should be 100% in total. You can insert widgets to each columns from Appearance > Widgets, after you save this setting."
+msgstr ""
+
+#: inc/customizer.php:722
+msgid "column"
+msgstr ""
+
+#: inc/customizer.php:727
+msgid "Width (%)"
+msgstr ""
+
+#: inc/customizer.php:732
+msgid "Text align"
+msgstr ""
+
+#: inc/customizer.php:734
+msgid "left"
+msgstr ""
+
+#: inc/customizer.php:735
+msgid "right"
+msgstr ""
+
+#: inc/customizer.php:736
+msgid "center"
+msgstr ""
+
+#: inc/customizer.php:751
+msgid "Footer widgets title"
+msgstr ""
+
+#: inc/customizer.php:753
+msgid "standard"
+msgstr ""
+
+#: inc/customizer.php:754
+msgid "with border"
+msgstr ""
+
+#: inc/customizer.php:769 inc/customizer.php:998
+msgid "Social media links"
+msgstr ""
+
+#: inc/customizer.php:783
+msgid "Copyright text"
+msgstr ""
+
+#: inc/customizer.php:785
+#, php-format
+msgid "Copyright &copy; %s &mdash; designed by %s"
+msgstr ""
+
+#: inc/customizer.php:804
+msgid "Blog pages template"
+msgstr ""
+
+#: inc/customizer.php:805
+msgid "For all blog pages (home, archive, single post pages)"
+msgstr ""
+
+#: inc/customizer.php:807 inc/customizer.php:879 inc/customizer.php:948
+msgid "Default (with sidebar)"
+msgstr ""
+
+#: inc/customizer.php:809 inc/customizer.php:881 inc/customizer.php:950
+msgid "Narrow width"
+msgstr ""
+
+#: inc/customizer.php:817
+msgid "Index: read more text"
+msgstr ""
+
+#: inc/customizer.php:818
+msgid "Continue Reading &rarr;"
+msgstr ""
+
+#: inc/customizer.php:825
+msgid "Single post: next/prev navigation"
+msgstr ""
+
+#: inc/customizer.php:826 inc/customizer.php:834
+msgid "Below the single post content."
+msgstr ""
+
+#: inc/customizer.php:833
+msgid "Single post: author bio"
+msgstr ""
+
+#: inc/customizer.php:843
+msgid "Breadcrumb"
+msgstr ""
+
+#: inc/customizer.php:850
+msgid "Breadcrumb root label"
+msgstr ""
+
+#: inc/customizer.php:851
+msgid "Shop"
+msgstr ""
+
+#: inc/customizer.php:857
+msgid "Breadcrumb root URL"
+msgstr ""
+
+#: inc/customizer.php:858
+msgid "Default (blank) is the shop page URL."
+msgstr ""
+
+#: inc/customizer.php:871
+msgid "Products / shop page"
+msgstr ""
+
+#: inc/customizer.php:877
+msgid "Shop page template"
+msgstr ""
+
+#: inc/customizer.php:889
+msgid "Subcategories tabs"
+msgstr ""
+
+#: inc/customizer.php:896
+msgid "Products loop filter"
+msgstr ""
+
+#: inc/customizer.php:903
+msgid "Add to cart button on products list"
+msgstr ""
+
+#: inc/customizer.php:910
+msgid "Products grid n.o. columns"
+msgstr ""
+
+#: inc/customizer.php:922
+msgid "Products grid gutter"
+msgstr ""
+
+#: inc/customizer.php:940
+msgid "Single product page"
+msgstr ""
+
+#: inc/customizer.php:946
+msgid "Product page template"
+msgstr ""
+
+#: inc/customizer.php:958
+msgid "Product images gallery model"
+msgstr ""
+
+#: inc/customizer.php:959
+msgid "The \"default\" mode will use the setting from \"Enable Lightbox for product images\" option on WooCommerce > Settings > Products > Display."
+msgstr ""
+
+#: inc/customizer.php:961 inc/woocommerce.php:500
+msgid "Default (WooCommerce lightbox)"
+msgstr ""
+
+#: inc/customizer.php:962 inc/woocommerce.php:501
+msgid "Image slider"
+msgstr ""
+
+#: inc/customizer.php:963 inc/woocommerce.php:502
+msgid "Stacked images"
+msgstr ""
+
+#: inc/customizer.php:971
+msgid "Related products -- columns"
+msgstr ""
+
+#: inc/customizer.php:983
+msgid "Related products -- maximum posts"
+msgstr ""
+
+#: inc/customizer.php:984
+msgid "Set to 0 to disable related products, the maximum posts should follow the grid columns value. If you set 3 columns, then the maximum related products should be either 3 or 6 posts."
+msgstr ""
+
+#: inc/customizer.php:1012
+msgid "Link URL"
+msgstr ""
+
+#: inc/customizer.php:1017
+msgid "Link Target"
+msgstr ""
+
+#: inc/customizer.php:1019
+msgid "same window (tab)"
+msgstr ""
+
+#: inc/customizer.php:1020
+msgid "new window (tab)"
+msgstr ""
+
+#: inc/customizer.php:1055
+msgid "Your custom CSS to override the default style or anything which can not be configured via this Customizer"
+msgstr ""
+
+#: inc/customizer.php:1068
+msgid "Using visual CSS editor"
+msgstr ""
+
+#: inc/customizer.php:1070
+msgid "We recommend <a href=\"https://siteorigin.com/css/\">SiteOrigin CSS Editor</a> plugin if you want to make custom CSS changes with interactive UI to select the elements."
+msgstr ""
+
+#: inc/helpers.php:180
+msgid "-- none --"
+msgstr ""
+
+#: inc/import-demo-data.php:94
+msgid "Some images might be converted to blank gray images, due to a copyright policy from the original owner. It is normal, and you can easily change them to your own images."
+msgstr ""
+
+#: inc/singlestroke-branding.php:92
+#, php-format
+msgid "%s Dashboard"
+msgstr ""
+
+#: inc/singlestroke-branding.php:218
+msgid "Hi! Thanks for purchasing our theme. We at SingleStroke are very confident that you'll be delighted with the features and have a nice experience with it."
+msgstr ""
+
+#: inc/singlestroke-branding.php:222
+#, php-format
+msgid "Great! You are currently using a Child Theme of %s."
+msgstr ""
+
+#: inc/singlestroke-branding.php:225
+msgid "Quick links:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:227 inc/singlestroke-branding.php:292
+msgid "See full features list & changelog"
+msgstr ""
+
+#: inc/singlestroke-branding.php:228
+msgid "Read documentation"
+msgstr ""
+
+#: inc/singlestroke-branding.php:229
+msgid "Head to support site"
+msgstr ""
+
+#: inc/singlestroke-branding.php:230
+msgid "Subscribe for more udpates"
+msgstr ""
+
+#: inc/singlestroke-branding.php:231
+msgid "Rate this theme (&#9733;&#9733;&#9733;&#9733;&#9733;)"
+msgstr ""
+
+#: inc/singlestroke-branding.php:240
+msgid "Getting Started"
+msgstr ""
+
+#: inc/singlestroke-branding.php:241
+msgid "Updates"
+msgstr ""
+
+#: inc/singlestroke-branding.php:242
+msgid "FAQ"
+msgstr ""
+
+#: inc/singlestroke-branding.php:246
+msgid "For first time installation:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:250
+msgid "Step 1:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:250
+msgid "Activate all required plugins."
+msgstr ""
+
+#: inc/singlestroke-branding.php:252
+msgid "Required plugins are mandatory, and without them, some of the theme features might be broken. Please activate all of them via <strong>Appearance > Required Plugins</strong> page."
+msgstr ""
+
+#: inc/singlestroke-branding.php:258
+msgid "Step 2:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:258
+msgid "Import demo data (recommended)"
+msgstr ""
+
+#: inc/singlestroke-branding.php:260
+msgid "Instead of building the site from scratch, you can use our packaged demo data as a starting point. Please go to <strong>Appearance > Import Demo Data</strong> menu and follow the instructions."
+msgstr ""
+
+#: inc/singlestroke-branding.php:266
+msgid "Step 3:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:266
+msgid "Start customizing :)"
+msgstr ""
+
+#: inc/singlestroke-branding.php:269
+#, php-format
+msgid "The theme is now ready to use. You can start customizing from <strong>Appearance > Customize</strong> menu. Please read the <a href=\"%s\">documentation</a> for further details about the other features."
+msgstr ""
+
+#: inc/singlestroke-branding.php:279
+msgid "Updates changelog:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:292
+msgid "here"
+msgstr ""
+
+#: inc/singlestroke-branding.php:297
+msgid "Frequently Asked Questions:"
+msgstr ""
+
+#: inc/singlestroke-branding.php:300
+msgid "How to update my theme?"
+msgstr ""
+
+#: inc/singlestroke-branding.php:303
+#, php-format
+msgid "There are 2 theme update methods, <strong>manual update</strong> and <strong>automatic update</strong>. Manual update requires redownload the new theme package from the marketplace and reupload it to your site. Whereas using the automatic update, you would notice you whenever a new version released and you can directly update the theme with one click. Read more about it on <a href=\"%s\">this documentation page</a>."
+msgstr ""
+
+#: inc/singlestroke-branding.php:310
+msgid "What is a Child Theme? Should I use one?"
+msgstr ""
+
+#: inc/singlestroke-branding.php:313
+#, php-format
+msgid "We have a very detailed explanation about pros and cons on using Child Theme. Please read about Child Theme and how you should use it on <a href=\"%s\">this documentation page</a>."
+msgstr ""
+
+#: inc/singlestroke-branding.php:320
+msgid "How to optimize my website for better SEO?"
+msgstr ""
+
+#: inc/singlestroke-branding.php:323
+msgid "All of SingleStroke's themes are built using the best SEO practices, however your SEO success also depends on other factors as well. We suggest you to install <strong>Yoast SEO</strong> plugin for managing WordPress basic SEO, keywords optimization, and other important stuffs. You shoud also read <a href=\"\">this article</a> by Yoast SEO to learn more about WordPress SEO optimization."
+msgstr ""
+
+#: inc/singlestroke-branding.php:330
+msgid "How to make my website loads faster?"
+msgstr ""
+
+#: inc/singlestroke-branding.php:333
+#, php-format
+msgid "We heard \"this theme is not fast\". Well, a website performance really depends on many factors, and you can't just put all blames to a WordPress theme you are currently using. You might have chosen a wrong hosting, uploaded non-optimized images, etc. By default, a default WordPress configuration is not yet optimized for best performance, that's why you need to do some optimizations. We have written a short article and summarized few tips that works on our websites, you can read and learn <a href=\"%s\">how to make your WordPress websites faster</a>."
+msgstr ""
+
+#: inc/singlestroke-branding.php:340
+msgid "I have other questions"
+msgstr ""
+
+#: inc/singlestroke-branding.php:343
+#, php-format
+msgid "Please head to the <a href=\"%s\">support site</a>, our team would get back to you shortly and help you with any question or issue."
+msgstr ""
+
+#: inc/singlestroke-kirki.php:439
+#, php-format
+msgid "The plugin is installed but not activated. Please <a href=\"%s\">activate it</a>."
+msgstr ""
+
+#: inc/singlestroke-kirki.php:456
+msgid "If you want to take full advantage of the options this theme has to provide, please install the Kirki plugin."
+msgstr ""
+
+#: inc/template-tags.php:119 inc/template-tags.php:135
+msgid "Cart"
+msgstr ""
+
+#: inc/template-tags.php:274
+#, php-format
+msgid "by %s"
+msgstr ""
+
+#: inc/template-tags.php:279
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:287
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:287
+msgid "% Comments"
+msgstr ""
+
+#: inc/woocommerce.php:64
+msgid "Add a review"
+msgstr ""
+
+#: inc/woocommerce.php:271
+msgid "&larr; All Products"
+msgstr ""
+
+#: inc/woocommerce.php:424
+msgid "Placeholder"
+msgstr ""
+
+#: inc/woocommerce.php:470
+msgid "Gallery Mode"
+msgstr ""
+
+#: inc/woocommerce.php:479
+msgid "Custom Product Page"
+msgstr ""
+
+#: inc/woocommerce.php:496
+msgid "This could override the Customizer settings on Appearance > Customize > Shop > Product images gallery model. This only works if the Custom Product Page mode is not active."
+msgstr ""
+
+#: inc/woocommerce.php:499
+msgid "-- Use Customizer settings --"
+msgstr ""
+
+#: inc/woocommerce.php:545
+msgid "Select Page to override the WooCommerce standard content."
+msgstr ""
+
+#: inc/woocommerce.php:548
+msgid "-- Use standard content --"
+msgstr ""
+
+#: search.php:19
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: template-parts/content-blank.php:24 template-parts/content-page.php:24
+#: template-parts/content-single-product-custom.php:47
+#: template-parts/content.php:34
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content.php:40
+msgid " "
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:13
+msgid "SingleStroke: About Me"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:16
+msgid "About Me with image"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:65
+#: widgets/singlestroke-widget-about-me.php:184
+msgid "No image selected"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:169
+#: widgets/singlestroke-widget-posts.php:107
+#: widgets/singlestroke-widget-social.php:74
+msgid "Title:"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:173
+msgid "Name:"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:177
+msgid "Image"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:190
+msgid "Choose Image"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:190
+msgid "Choose an Image"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:192
+msgid "Remove"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:195
+msgid "Text"
+msgstr ""
+
+#: widgets/singlestroke-widget-about-me.php:199
+msgid "Automatically add paragraphs"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:13
+msgid "SingleStroke: Posts"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:16
+msgid "Posts list with thumbnail images"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:90
+msgid "Default"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:92
+msgid "Recent Published"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:93
+msgid "Random"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:112
+msgid "Layout:"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:121
+msgid "Number of posts to show:"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:125
+msgid "Sort By:"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:135
+msgid "Query from All Categories?"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:139
+msgid "or Choose Specific Categories:"
+msgstr ""
+
+#: widgets/singlestroke-widget-posts.php:149
+msgid "Display post date?"
+msgstr ""
+
+#: widgets/singlestroke-widget-social.php:15
+msgid "SingleStroke: Social"
+msgstr ""
+
+#: widgets/singlestroke-widget-social.php:18
+msgid "Social Media Links"
+msgstr ""
+
+#: widgets/singlestroke-widget-social.php:70
+msgid "Connect with Us"
+msgstr ""
+
+#: widgets/singlestroke-widget-social.php:81
+msgid "Open links on new tab"
+msgstr ""

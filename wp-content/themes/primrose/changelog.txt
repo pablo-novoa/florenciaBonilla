@@ -1,0 +1,94 @@
+==================================
+Version 1.2.4 - 10 August 2016
+==================================
+
+BUGS FIXED:
+- Unresponsive product image slider when clicked
+
+
+==================================
+Version 1.2.3 - 5 August 2016
+==================================
+
+NEW FEATURES:
+- Now each product can have different gallery model (override the Customizer option)
+
+BUGS FIXED:
+- Related products grid options not working
+- Minor CSS bug
+
+
+==================================
+Version 1.2.2 - 31 July 2016
+==================================
+
+BUGS FIXED:
+- Fatal error due to WooCommerce not installed
+
+
+==================================
+Version 1.2.1 - 30 July 2016
+==================================
+
+BUGS FIXED:
+- JS error because of script tag conflict
+- Single product gallery scripts
+- Minor CSS
+
+
+==================================
+Version 1.2.0 - 29 July 2016
+==================================
+
+NEW FEATURES:
+- ONE CLICK demo data import (recommended for fresh installation only)
+- Topbar section
+- WooCommerce single product gallery models
+- WooCommerce breadcrumb option
+- WooCommerce new "My Account" tabbed page style
+- Header cart icon model option
+- Header cart widget dropdown
+- Footer widgets area columns option, now columns' width are coonfigurable
+- Header search mode: products / posts &amp; pages / all types
+
+ENHANCEMENTS:
+- Faster Customizer preview (via WordPress Customizer selective refresh)
+- WooCommerce Search bar style and results page style
+- Open in new window option for social media links
+- Search results item styles
+
+BUGS FIXED:
+- Parallax on mobile devices (disabled)
+- Double Tap navigation on mobile devices
+- Non AJAX enabled Add to Cart button widget (require Primrose SiteOrigin Widgets plugin update)
+- Categories query in WooCommerce posts grid widget (require Primrose SiteOrigin Widgets plugin update)
+- Products in a category query in WooCommerce posts grid widget (require Primrose SiteOrigin Widgets plugin update)
+- Instagram feeds now has width height attributes
+- Can't deactivate WooCommerce lightbox gallery on single product page
+
+
+==================================
+Version 1.1.0 - 16 April 2016
+==================================
+
+NEW FEATURES:
+- WPML Integration
+- Quick add to cart button (optional) on products grid
+- New home page sample: Home Grid
+- Masonry grid element for Page Builder (need plugin update manually)
+- Header full width mode
+- Single Product page template (layout) option
+
+BUGS FIXED:
+- Disable parallax on mobile devices for performance
+- Background video poster on mobile devices
+- Blog post thumbnail URL
+- Double Tap navigation on mobile devices
+- Post Formats plugin issue (plugin update required)
+
+
+==================================
+Version 1.0.0 - 14 March 2016
+==================================
+
+- Initial release
