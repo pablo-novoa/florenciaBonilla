@@ -158,6 +158,7 @@ Yes you can! Join in on our [GitHub repository](http://github.com/woothemes/wooc
 
 == Changelog ==
 
+<<<<<<< HEAD
 = 2.6.9 - 2016/12/07 =
 * Theme - Added support for Twenty Seventeen Theme.
 * Fix - Excluded webhook delivery logs from comments count.
@@ -176,6 +177,8 @@ Yes you can! Join in on our [GitHub repository](http://github.com/woothemes/wooc
 * Dev - API - Only update categories menu order and display if defined.
 * Dev - Fixed when should deliver wp_trash_post webhooks.
 
+=======
+>>>>>>> origin/master
 = 2.6.8 - 10/11/16 =
 * Fix - REQUEST_URI was missing a trailing slash when being compared in the cache prevention functions.
 * Fix - Prevent issues when sending empty prices to PayPal.
